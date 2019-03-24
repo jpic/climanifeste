@@ -2,13 +2,13 @@
 
 # Manifeste écologique des professionnel·le·s de l'informatique
 
-En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déjà<sup>[4](#franceinfo-portorico),</sup> <sup>[5](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[6](#figaro-catastrophes)</sup> et à l'avenir, tou·te·s les français·e·s seront impacté·e·s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'Assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[7](#youtube-jouzel),</sup> <sup>[8](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[9](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir. 
+En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déjà<sup>[4](#franceinfo-portorico),</sup> <sup>[5](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[6](#figaro-catastrophes)</sup> et à l'avenir, tou·te·s les français·e·s seront impacté·e·s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'Assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[7](#youtube-jouzel),</sup> <sup>[8](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[9](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir.
 
 Face à l'urgence<sup>[10](#latribune-giec)</sup>, peut-on laisser les responsables du réchauffement agir sans conséquences ? La jeunesse a décidé que non. Le Manifeste étudiant pour un réveil écologique<sup>[11](#manifeste-etudiants)</sup> déclare que ses 30 000 signataires «ne mettront pas leur énergie au service d'employeurs dont la stratégie et la vision du monde sont anachroniques»<sup>[12](#lesechos-manifeste)</sup>.
 
 En tant que professionnel·le·s de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiant·e·s pour **signifier aux entreprises responsables du réchauffement climatique <sup>[13](#forbes)</sup> et à celles qui les financent<sup>[14](#oxfam),</sup> <sup>[15](#amisdelaterre-bnp),</sup> <sup>[16](#amisdelaterre-ca),</sup> <sup>[17](#amisdelaterre-socgen),</sup> <sup>[18](#amisdelaterre-pipeline)</sup> que nous refuserons dorénavant de travailler pour elles**.
 
-La plupart des entreprises peinent à recruter assez d'informaticien·ne·s<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous ! 
+La plupart des entreprises peinent à recruter assez d'informaticien·ne·s<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous !
 
 Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
 
@@ -20,8 +20,8 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
   * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires**
   * en partageant le manifeste
   * [en suivant l'actualité du manifeste sur Twitter](https://twitter.com/climanifeste)
-* Impliquez-vous : 
-  * si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md). 
+* Impliquez-vous :
+  * si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md).
   * si vous êtes juriste, communiquant, dans la relation presse, écrivez-nous à contact@climanifeste.net ou venez en discuter sur le [Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM)
 
 ## Que reste t-il à faire ?
@@ -40,21 +40,21 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 ## Premiers signataires
 
 Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
-* si vous avez un compte GitHub, **[cliquez-ici pour modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md)** et 
-  * ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet), métier` 
+* si vous avez un compte GitHub, **[cliquez-ici pour modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md)** et
+  * ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet), métier`
   * pensez à l'ordre alphabétique (du nom de famille) 🙏
   * validez la pull request
 * sinon, envoyez-nous un e-mail avec Prénom+Nom+métier+URL (de votre profil LinkedIn par ex.) à contact@climanifeste.net
 
 ### Signatures de personnes physiques
 
-* [Amayas Abboute](https://github.com/mayes21), développeur 
-* [Maxence Aici](http://aici.me), développeur 
+* [Amayas Abboute](https://github.com/mayes21), développeur
+* [Maxence Aici](http://aici.me), développeur
 * [Hamza Amrouche](https://github.com/simperfit), lead développeur Symfony
 * [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Rachel Arnould](https://twitter.com/rachel_arn), Product Owner Freelance
 * [Roxanne Asnar](https://www.linkedin.com/in/roxanne-asnar/), développeuse web
-* [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst 
+* [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Yann Autissier](https://github.com/aya), architecte technique
@@ -65,7 +65,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
 * [Benjamin Bernard-Bouissières](https://www.linkedin.com/in/benjamin-bernard-bouissi%C3%A8res-9b1810a7/), Développeur Python
 * [Olivia Bertout](https://fr.linkedin.com/in/olivia-bertout-0b39348), chef de projet
-* [Jérémie Bertrand](https://laedit.net), développeur 
+* [Jérémie Bertrand](https://laedit.net), développeur
 * [Christophe Benz](https://github.com/cbenz), développeur
 * [François Best](https://francoisbest.com), développeur freelance
 * [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
@@ -136,7 +136,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Quentin Grimaud](https://www.linkedin.com/in/quentin-grimaud-4379972b/), ingénieur en informatique, développeur full-stack
 * [Francois-Joseph Grimault](https://www.sharypic.com), artisan développeur
 * [Thomas Guesnon](https://framagit.org/patjennings), designer, développeur
-* [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
+* [Xavier Guillemot](https://github.com/xavier-plasma), développeur
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Emmanuelle Helly](https://mastodon.tetaneutral.net/@numahell/), développeuse web
@@ -209,8 +209,8 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
 * [Vincent Reuss](http://github.com/vichenze), développeur
-* [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
-* [Marc Ribault](https://www.open-cy.life), Project manager 
+* [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner
+* [Marc Ribault](https://www.open-cy.life), Project manager
 * [Benjamin Richard](https://www.linkedin.com/in/benrichard/), Manager technique, concepteur/développeur
 * [Raphael Richard](http://www.raphaelrichard.net/), formateur IA et Marketing Digital
 * [Sunny Ripert](http://sunfox.org), développeur
@@ -218,7 +218,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Alexandre Rousseau](http://rousseau-alexandre.fr/), développeur
 * [Gauthier Roussilhe](http://www.gauthierroussilhe.com), designer
-* [Vanessa Roux](https://github.com/Vanoux), Développeuse Web 
+* [Vanessa Roux](https://github.com/Vanoux), Développeuse Web
 * [Anis Safine Laget](https://twitter.com/anis), développeur freelance
 * [Thibaut Sailly](https://tsailly.net), designer
 * [Vincent Salahkar](https://twitter.com/pseudofvincent), développeur
@@ -269,8 +269,8 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 1. <a name="lesechos-manifeste" href="https://www.lesechos.fr/idees-debats/cercle/0600563849070-les-generations-futures-cest-nous-2239409.php">Les générations futures, c'est nous ! (Les Echos, janvier 2019)</a>
 1. <a name="forbes" href="https://www.forbes.fr/classements/100-entreprises-responsables-rechauffement-climatique/">Les 100 Entreprises Responsables Du Réchauffement Climatique (Forbes, juillet 2017)</a>
 1. <a name="oxfam" href="https://www.oxfamfrance.org/wp-content/uploads/2018/11/BanquesFrancaises_Fossiles_Nov2018.pdf">Banques françaises, les fossiles raflent la mise (Oxfam, PDF, novembre 2018)</a>
-1. <a name="amisdelaterre-bnp" href="https://www.amisdelaterre.org/BNP-Paribas-ciblee-pour-enliser-l-Europe-dans-le-charbon.html">BNP Paribas ciblée pour enliser l’Europe dans le charbon (Les Amis de la Terre, novembre 2018)</a> 
-1. <a name="amisdelaterre-ca" href="https://www.amisdelaterre.org/AG-2018-Credit-Agricole-maintient-le-cap-sur-les-fossiles.html">Crédit Agricole maintient le cap sur les fossiles (Les Amis de la Terre, mai 2018)</a> 
+1. <a name="amisdelaterre-bnp" href="https://www.amisdelaterre.org/BNP-Paribas-ciblee-pour-enliser-l-Europe-dans-le-charbon.html">BNP Paribas ciblée pour enliser l’Europe dans le charbon (Les Amis de la Terre, novembre 2018)</a>
+1. <a name="amisdelaterre-ca" href="https://www.amisdelaterre.org/AG-2018-Credit-Agricole-maintient-le-cap-sur-les-fossiles.html">Crédit Agricole maintient le cap sur les fossiles (Les Amis de la Terre, mai 2018)</a>
 1. <a name="amisdelaterre-socgen" href="https://www.amisdelaterre.org/Rapport-Societe-Generale-plein-gaz-sur-les-fossiles.html">Société Générale, plein gaz sur les fossiles (Les Amis de la Terre, mars 2018)</a>
 1. <a name="amisdelaterre-pipeline" href="https://www.amisdelaterre.org/Trans-Adriatic-Pipeline-la-France-apporte-des-soutiens-financiers-massifs-au.html">Trans Adriatic Pipeline : la France apporte des soutiens financiers massifs au projet de gazoduc controversé (Les Amis de la Terre, janvier 2019)</a>
 1. <a name="lemonde-recrutement" href="https://www.lemonde.fr/economie/article/2018/06/15/informatique-les-entreprises-francaises-peinent-a-recruter_5315494_3234.html">Informatique : les entreprises françaises peinent à recruter (Le Monde, juin 2018)</a>
