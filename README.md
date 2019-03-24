@@ -252,6 +252,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 ### Signatures de personnes morales
 
 * [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
+* [YourLabs](https://yourlabs.biz), Hackeureuses
 
 ## Sources du manifeste
 
